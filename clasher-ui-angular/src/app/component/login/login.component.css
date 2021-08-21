@@ -1,0 +1,9 @@
+body {
+  background-color: aliceblue;
+}
+
+.loginDiv {
+  background-color: aquamarine;
+  width: 50%;
+  border: blueviolet;
+}
